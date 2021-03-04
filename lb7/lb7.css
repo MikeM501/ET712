@@ -1,0 +1,16 @@
+form {
+border: inset;
+margin: 25%;
+padding: 20px;
+color: blue;
+font-famliy: fantasy;
+content: icon; 
+text-align: :left;
+}
+input{
+  align-self: center;
+  border: solid;
+  margin: 5%;
+  padding: 2px;
+  color: red;
+}
